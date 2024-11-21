@@ -1,0 +1,64 @@
+#text{
+    color: white;
+    background-color: rgba(255, 255, 255, 30%);
+    text-align: right;
+    margin-top: 80px;
+    margin-bottom: 50px;
+
+}
+.para{
+    margin-left: 80px;
+}
+.font{
+    font-size: larger;
+}
+.chart{
+    margin-left: 300px;
+    margin-bottom: 80px;
+}
+.container1{
+    margin-left: 125px;
+    margin-bottom: 50px;
+}
+#font{
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.footer_bg {
+    background: url(../img/new-fronend-img/bg-footer.png);
+    background-color: #185589;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0 10px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.icons a{
+    text-decoration: none;
+    color: #050505;
+}
+.icons ion-icon{
+    color: #0c0c0c;
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color: #ff7200;
+}
+.img{
+    background-image: url("ferrari.jpg");
+    background-size: cover;
+    height: 200px;
+
+}
+.header{
+    margin-bottom: 80px;
+}

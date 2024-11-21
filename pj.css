@@ -1,0 +1,61 @@
+
+mt-107 {
+    margin-top: 107px;
+}
+@media (min-width: 768px)
+.container {
+    max-width: 720px;
+}
+@media (min-width: 576px)
+.container {
+    max-width: 540px;
+}
+.container {
+    width: 100%;
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+.welcome-bg {
+    background: url("https://e-amrit.niti.gov.in/assets/admin/dist/img/new-frontend/abt-bg.png");
+    background-position: 100% 3%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.going-electric-bg {
+    background: url("https://e-amrit.niti.gov.in/assets/admin/dist/img/new-frontend/going-elctric-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.typeofev-bhp-img {
+    width: 256px;
+    height: 205px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.myths-hear-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: left;
+    color: #185589;
+    padding-bottom: 20px;
+}
+.mb-0, .my-0 {
+    margin-bottom: 0 !important;
+}
